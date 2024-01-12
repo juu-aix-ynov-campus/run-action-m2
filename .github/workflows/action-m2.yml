@@ -22,4 +22,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: j-catania/action-m2@main
+        with:
+          milliseconds: 500
 
