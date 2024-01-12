@@ -1,0 +1,15 @@
+{
+  "name": "run-action-m2",
+  "version": "1.0.0",
+  "description": "[![Action M2](https://github.com/juu-aix-ynov-campus/run-action-m2/actions/workflows/action-m2.yml/badge.svg)](https://github.com/juu-aix-ynov-campus/run-action-m2/actions/workflows/action-m2.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "born-to-code": "^0.3.2"
+  }
+}
